@@ -20,6 +20,7 @@ cpp = "^0.5"
 
 [build-dependencies]
 cpp_build = "^0.5"
+pkg-config = "0.3"
 
 [dev-dependencies]
 rand = "^0.7"
